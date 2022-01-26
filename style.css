@@ -119,7 +119,7 @@ body .greeting {
   width: 100%;
   height: 45px;
   line-height: 1;
-  overflow: hidden;
+  overflow: visible;
   display: flex;
   justify-content: center;
 }
