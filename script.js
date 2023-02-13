@@ -1,4 +1,5 @@
 // jQuery
+import $ from 'jquery';
 $(document).ready(function(){
   $('.title').click(function(){
     $('.container').addClass('open');
