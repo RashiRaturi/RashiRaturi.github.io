@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Pacifico);
+ @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
 body {
-  font-family: 'Pacifico', cursive;
+  font-family: 'Raleway', sans-serif;
   overflow: hidden;
   color: #fff; }
 
@@ -34,7 +34,7 @@ body {
   margin-top: -73px;
   z-index: 4;
   font-size: 50px;
-  font-family: 'Pacifico', cursive;
+  font-family: 'Raleway', sans-serif;
   color: #fff;
   cursor: pointer;
   text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3); }
